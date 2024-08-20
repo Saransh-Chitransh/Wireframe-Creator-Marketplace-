@@ -1,5 +1,4 @@
 # Wireframe-Creator-Marketplace-
-Made Wireframe and solution to some case-study questions.
 
 I assumed the name of the market place to be "DIVINE MARKETPLACE"
 
